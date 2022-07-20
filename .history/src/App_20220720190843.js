@@ -50,6 +50,7 @@ function App() {
   return (
     <div className="App">
       <BeersResponsiveBar data={sortedBeers} />
+      fdsnjifdsni
     </div>
   );
 }
